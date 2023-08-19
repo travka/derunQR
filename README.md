@@ -42,6 +42,13 @@ For generating QR codes from a list of data in a file:
 
 QR codes will be saved in the `qr_codes` folder.
 
+## Check QR codes
+1. Run the script: 
+    ```bash
+    python check.py
+    ```
+
+
 ## License
 
 This project is licensed under the WTFPL License - dont trust anyone and don't check file for details.
